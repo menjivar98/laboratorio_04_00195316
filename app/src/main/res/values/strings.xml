@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">laboratorio_04_00195316</string>
+    <string name="hint_de_texto">Ingrese nombre de la pelicula</string>
 </resources>
